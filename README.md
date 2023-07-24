@@ -1,4 +1,4 @@
-# Data_Analysis-on-IMBD-using-sqlite3   
+# Data_Analysis-on-IMBd-using-sqlite3   
 
 By above Analysis we can see that :-     
     1) Pirates of the Caribbean: On Stranger Tides is the highest budget film.    
